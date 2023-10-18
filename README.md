@@ -5,13 +5,9 @@ Pré-requisitos
 Antes de começar, certifique-se de ter Python instalado em seu sistema. Você também precisará instalar as bibliotecas PyAutoGUI, Pandas e Pyperclip. Você pode instalá-las usando o gerenciador de pacotes pip:
 
 ```
-
-bash
-
+#!/bash
 Copy code
-
 pip install pyautogui pandas pyperclip
-
 ```
 
 # Conteúdo do Repositório
