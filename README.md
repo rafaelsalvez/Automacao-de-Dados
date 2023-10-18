@@ -31,9 +31,9 @@ Exemplo 2: Colar dados da área de transferência em um campo de formulário onl
 ## Como Contribuir
 Sinta-se à vontade para contribuir com exemplos adicionais, correções ou melhorias. Basta seguir estes passos:
 
-Fork: Faça um fork deste repositório para sua própria conta.
-Clone: Clone o repositório do seu fork para o seu ambiente de desenvolvimento.
-Desenvolva: Faça suas alterações, adicione novos exemplos ou corrija problemas existentes.
+- Fork: Faça um fork deste repositório para sua própria conta.
+- Clone: Clone o repositório do seu fork para o seu ambiente de desenvolvimento.
+- Desenvolva: Faça suas alterações, adicione novos exemplos ou corrija problemas existentes.
 Commit: Faça commit das suas alterações e descreva-as de forma clara.
 Push: Envie as alterações para o seu fork no GitHub.
 Pull Request: Abra um pull request neste repositório. Descreva suas alterações detalhadamente.
