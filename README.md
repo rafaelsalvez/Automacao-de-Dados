@@ -1,7 +1,7 @@
 # Automatização de Dados para Relatório
 Este repositório contém exemplos e guias para automatizar tarefas de manipulação de dados utilizando as bibliotecas Python PyAutoGUI, Pandas e Pyperclip. A automação de dados é uma técnica poderosa para simplificar processos repetitivos e economizar tempo em tarefas que envolvem interação com interfaces gráficas, manipulação de planilhas e transferência de dados.
 
-Pré-requisitos
+## Pré-requisitos
 Antes de começar, certifique-se de ter Python instalado em seu sistema. Você também precisará instalar as bibliotecas PyAutoGUI, Pandas e Pyperclip. Você pode instalá-las usando o gerenciador de pacotes pip:
 
 ```
@@ -39,6 +39,6 @@ Sinta-se à vontade para contribuir com exemplos adicionais, correções ou melh
 - Push: Envie as alterações para o seu fork no GitHub.
 - Pull Request: Abra um pull request neste repositório. Descreva suas alterações detalhadamente.
 ## Avisos Importantes
--- Cuidado: Ao executar os exemplos de automação, certifique-se de entender o que cada script está fazendo para evitar interações indesejadas.
--- Responsabilidade: Os desenvolvedores e colaboradores deste repositório não se responsabilizam por qualquer uso indevido ou danos causados pelo uso dos scripts fornecidos.
--- Esperamos que este repositório seja útil para automatizar suas tarefas de manipulação de dados. Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma issue. Divirta-se automatizando!
+- Cuidado: Ao executar os exemplos de automação, certifique-se de entender o que cada script está fazendo para evitar interações indesejadas.
+- Responsabilidade: Os desenvolvedores e colaboradores deste repositório não se responsabilizam por qualquer uso indevido ou danos causados pelo uso dos scripts fornecidos.
+- Esperamos que este repositório seja útil para automatizar suas tarefas de manipulação de dados. Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma issue. Divirta-se automatizando!
