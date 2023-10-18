@@ -34,10 +34,10 @@ Sinta-se à vontade para contribuir com exemplos adicionais, correções ou melh
 - Fork: Faça um fork deste repositório para sua própria conta.
 - Clone: Clone o repositório do seu fork para o seu ambiente de desenvolvimento.
 - Desenvolva: Faça suas alterações, adicione novos exemplos ou corrija problemas existentes.
-Commit: Faça commit das suas alterações e descreva-as de forma clara.
-Push: Envie as alterações para o seu fork no GitHub.
-Pull Request: Abra um pull request neste repositório. Descreva suas alterações detalhadamente.
-Avisos Importantes
+- Commit: Faça commit das suas alterações e descreva-as de forma clara.
+- Push: Envie as alterações para o seu fork no GitHub.
+- Pull Request: Abra um pull request neste repositório. Descreva suas alterações detalhadamente.
+## Avisos Importantes
 Cuidado: Ao executar os exemplos de automação, certifique-se de entender o que cada script está fazendo para evitar interações indesejadas.
 Responsabilidade: Os desenvolvedores e colaboradores deste repositório não se responsabilizam por qualquer uso indevido ou danos causados pelo uso dos scripts fornecidos.
 Esperamos que este repositório seja útil para automatizar suas tarefas de manipulação de dados. Se você tiver alguma dúvida ou sugestão, não hesite em abrir uma issue. Divirta-se automatizando!
