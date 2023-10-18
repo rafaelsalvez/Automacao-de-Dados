@@ -3,12 +3,14 @@ Este repositório contém exemplos e guias para automatizar tarefas de manipula�
 
 Pré-requisitos
 Antes de começar, certifique-se de ter Python instalado em seu sistema. Você também precisará instalar as bibliotecas PyAutoGUI, Pandas e Pyperclip. Você pode instalá-las usando o gerenciador de pacotes pip:
+
 '''
 bash
 Copy code
 pip install pyautogui pandas pyperclip
 '''
-#Conteúdo do Repositório
+
+# Conteúdo do Repositório
 ## 1. Automatização de Interface Gráfica com PyAutoGUI
 Nesta seção, você encontrará exemplos de automação de interfaces gráficas usando a biblioteca PyAutoGUI. Aprenda como automatizar cliques do mouse, preenchimento de formulários e outras interações com o usuário.
 
